@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhithon&label=Profile%20views&color=0e75b6&style=flat" alt="abhithon" /> </p>
 
 - 🔭 I am eager to apply my technical expertise to real-world scenarios and make a meaningful impact
-- 💬 Ask me about **Ask me about Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics**
+- 💬 Ask me about **Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics**
 
 - 📫 How to reach me **abhishekc21@iitk.ac.in / abhi.bcs.07@gmail.com**
 
