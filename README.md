@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/NishTewari/NishTewari/master/Silvia.gif)
+![MasterHead]([https://raw.githubusercontent.com/NishTewari/NishTewari/master/Silvia.gif](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e))
 <h1 align="center">Hi 👋, I'm Abhishek Chaudhary</h1>
 <h3 align="center">Major in Chemical Engineer | Minor in Department of Management Sciences | IIT Kanpur</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
