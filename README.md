@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abhishekc21@iitk.ac.in / abhi.bcs.07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing]([https://drive.google.com/file/d/12Nu13z2EpMvYJMEF0KVU1EfCP3uSLZ6_/view?usp=sharing](https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing](https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing))
 
 
 <h3 align="left">Connect with me:</h3>
