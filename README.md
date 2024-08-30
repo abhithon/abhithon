@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/NishTewari/NishTewari/master/Silvia.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Chaudhary</h1>
-<h3 align="center">a chemical engineer on a path to understand how stuff works</h3>
+<h3 align="center">Major in Chemical Engineering | Minor in Department of Management Sciences | IIT Kanpur</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhithon&label=Profile%20views&color=0e75b6&style=flat" alt="rajverm328" /> </p>
@@ -8,7 +8,7 @@
 - 🔭 I am eager to apply my technical expertise to real-world scenarios and make a meaningful impact
 
 
-- 💬 Ask me about **Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics, ICs and stuff**
+- 💬 Ask me about **Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics**
 
 - 📫 How to reach me **abhishekc21@iitk.ac.in / abhi.bcs.07@gmail.com**
 
