@@ -1,19 +1,18 @@
 ![MasterHead](https://raw.githubusercontent.com/NishTewari/NishTewari/master/Silvia.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Chaudhary</h1>
-<h3 align="center">Major in Chemical Engineer | Minor in Department of Management Sciences | IIT Kanpur</h3>
+<h3 align="center">a chemical engineer on a path to understand how stuff works</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhithon&label=Profile%20views&color=0e75b6&style=flat" alt="rajverm328" /> </p>
 
-- 🔭 I’m currently working on **making an Engine Control Unit**
+- 🔭 I am eager to apply my technical expertise to real-world scenarios and make a meaningful impact
 
-- 🌱 I’m currently learning **ARM microprocessors, computer architecture**
 
 - 💬 Ask me about **Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics, ICs and stuff**
 
 - 📫 How to reach me **abhishekc21@iitk.ac.in / abhi.bcs.07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Nu13z2EpMvYJMEF0KVU1EfCP3uSLZ6_/view?usp=sharing](https://drive.google.com/file/d/12Nu13z2EpMvYJMEF0KVU1EfCP3uSLZ6_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing]([https://drive.google.com/file/d/12Nu13z2EpMvYJMEF0KVU1EfCP3uSLZ6_/view?usp=sharing](https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing))
 
 
 <h3 align="left">Connect with me:</h3>
