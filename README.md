@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing](https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing)
 
-- ⚡ Fun fact On average,  Correlation between smartness and happiness is negative
+- ⚡ Fun fact **On average,  Correlation between smartness and happiness is negative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
