@@ -8,7 +8,7 @@
 - 🔭 I am eager to apply my technical expertise to real-world scenarios and make a meaningful impact
 - 💬 Ask me about **Machine Learning, Software, Quantitative Trading, Image Processing, Computer Graphics**
 
-- 📫 How to reach me **abhishekc21@iitk.ac.in / abhi.bcs.07@gmail.com**
+- 📫 How to reach me **abhi.bcs.07@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing](https://drive.google.com/drive/folders/1cMps3YIvu74__-iH2gLh-pO6O4jlwx_M?usp=sharing)
 
